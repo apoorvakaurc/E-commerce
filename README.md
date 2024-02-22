@@ -1,8 +1,4 @@
-# Mern-Ecommerce-website 
-[![Generic badge](https://img.shields.io/badge/Responsive-Yes-<COLOR>.svg)](https://eastclothing.herokuapp.com/) 
 ## E-Commerce Website Using MERN STACK. 
-
-
 
 #### The main objective behind this project was to build an e-commerce website that handles both sides client and admin using the following technologies :  
 
